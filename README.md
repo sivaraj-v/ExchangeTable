@@ -7,9 +7,11 @@ npm start
 
 #### Setting Base Currency in query parameters
 
+```
 http://zural-exchange-table.surge.sh/?base=EUR
-http://zural-exchange-table.surge.sh/?base=GBP
 
+http://zural-exchange-table.surge.sh/?base=GBP
+```
 
 #### Did you have time to complete the coding test ? What would you add if you had more time?
 - Yes i got enough time for completing the task.
